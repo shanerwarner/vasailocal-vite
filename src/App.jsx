@@ -9,7 +9,7 @@ export default function App() {
             <Hello />
             <Catalog />
             <Custompc />
-
+            <PCbuild/>
         </div>
     )
 
