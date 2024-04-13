@@ -5,7 +5,7 @@ export default function Catalog() {
                 <h1
                     className=" mb-4 text-4xl font-bold bg-gradient-to-r from-indigo-500 to-teal-500 bg-clip-text
             text-transparen">
-                    Service Catalog 🖱️</h1>
+                    Service Catalog 💾</h1>
                 <p class="mt-1 text-xl font-normal text-gray-500 dark:text-gray-400">Browse a list of services
                     curated to help you work and play, stay organized, get answers, keep in touch, grow your
                     business, and more. Starting rom ₹90 Onwards</p>
