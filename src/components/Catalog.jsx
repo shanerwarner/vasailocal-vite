@@ -31,8 +31,8 @@ export default function Catalog() {
                                     <h1 className="font-normal">Home or small office.</h1>
                                     <h1 className="font-normal"></h1>
                                 </th>
-                                <td class="px-6 py-4">
-                                    Rs 90 🔥
+                                <td class="px-6 py-4 font-bold">
+                                ₹ 90 🔥
                                 </td>
 
                             </tr>
@@ -41,8 +41,8 @@ export default function Catalog() {
                                     Advanced WiFi Installation
                                     <h1 className="font-normal">Access Points or Switches</h1>
                                 </th>
-                                <td class="px-6 py-4">
-                                    Rs 250
+                                <td class="px-6 py-4 font-bold">
+                                ₹ 250
                                 </td>
 
                             </tr>
@@ -52,8 +52,8 @@ export default function Catalog() {
                                     <h1 className="font-normal">Installation, configuration and</h1>
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
-                                <td class="px-6 py-4">
-                                    Rs 159 🔥
+                                <td class="px-6 py-4 font-bold">
+                                ₹ 159 🔥
                                 </td>
 
                             </tr>
@@ -64,8 +64,8 @@ export default function Catalog() {
                                     <h1 className="font-normal">Installation, configuration and</h1>
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
-                                <td class="px-6 py-4">
-                                    Rs 159
+                                <td class="px-6 py-4 font-bold">
+                                ₹159
                                 </td>
 
                             </tr>
@@ -76,7 +76,7 @@ export default function Catalog() {
                                     <h1 className="font-normal">Windows Updates, Etc</h1>
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
-                                <td class="px-6 py-4">
+                                <td class="px-6 py-4 font-bold">
                                     Rs 159
                                 </td>
                             </tr>
