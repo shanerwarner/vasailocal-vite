@@ -32,7 +32,7 @@ export default function Catalog() {
                                     <h1 className="font-normal"></h1>
                                 </th>
                                 <td class="px-6 py-4">
-                                    Rs 90
+                                    Rs 90 🔥
                                 </td>
 
                             </tr>
@@ -53,7 +53,7 @@ export default function Catalog() {
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
                                 <td class="px-6 py-4">
-                                    Rs 159
+                                    Rs 159 🔥
                                 </td>
 
                             </tr>
