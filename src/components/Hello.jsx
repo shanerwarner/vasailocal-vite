@@ -15,7 +15,7 @@ function Hello(){
 
                         </h1>
                         <h1 className="text-4xl font-bold tracking-tight text-blue-600 sm:text-6xl">
-                            Tech Nexus
+                        Tech Core
 
                         </h1>
 
@@ -27,7 +27,7 @@ function Hello(){
                     </div>
                     <div className=" mx-auto mt-10 max-w-lg">
                         <img className="w-full rounded-2xl border border-gray-100 shadow"
-                            src="https://images.unsplash.com/photo-1611078489935-0cb964de46d6?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1606229365485-93a3b8ee0385?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt=""/>
                     </div>
                 </div>

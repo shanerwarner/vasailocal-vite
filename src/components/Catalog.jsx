@@ -42,7 +42,7 @@ export default function Catalog() {
                                     <h1 className="font-normal">Access Points or Switches</h1>
                                 </th>
                                 <td class="px-6 py-4 font-bold">
-                                ₹ 250
+                                ₹250
                                 </td>
 
                             </tr>
@@ -53,7 +53,7 @@ export default function Catalog() {
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
                                 <td class="px-6 py-4 font-bold border-b">
-                                ₹ 159 🔥
+                                ₹159 🔥
                                 </td>
 
                             </tr>
@@ -77,7 +77,7 @@ export default function Catalog() {
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
                                 <td class="px-6 py-4 font-bold">
-                                    Rs 159
+                                ₹159
                                 </td>
                             </tr>
                         </tbody>
