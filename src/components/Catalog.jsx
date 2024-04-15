@@ -5,7 +5,7 @@ export default function Catalog() {
                 <h1
                     className=" mb-4 text-4xl font-bold bg-gradient-to-r from-indigo-500 to-teal-500 bg-clip-text
             text-transparen">
-                    Service Catalog 💾</h1>
+                    Pricing 🏷️</h1>
                 <p class="mt-1 text-xl font-normal text-gray-500 dark:text-gray-400">Browse a list of services
                     curated to help you work and play, stay organized, get answers, keep in touch, grow your
                     business, and more. Starting rom ₹90 Onwards</p>
@@ -31,7 +31,7 @@ export default function Catalog() {
                                     <h1 className="font-normal">Home or small office.</h1>
                                     <h1 className="font-normal"></h1>
                                 </th>
-                                <td class="px-6 py-4 font-bold">
+                                <td class="px-6 py-4 font-bold ">
                                 ₹ 90 🔥
                                 </td>
 
@@ -52,7 +52,7 @@ export default function Catalog() {
                                     <h1 className="font-normal">Installation, configuration and</h1>
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
-                                <td class="px-6 py-4 font-bold">
+                                <td class="px-6 py-4 font-bold border-b">
                                 ₹ 159 🔥
                                 </td>
 
@@ -64,13 +64,13 @@ export default function Catalog() {
                                     <h1 className="font-normal">Installation, configuration and</h1>
                                     <h1 className="font-normal"> Troubleshooting support</h1>
                                 </th>
-                                <td class="px-6 py-4 font-bold">
+                                <td class="px-6 py-4 font-bold border-b">
                                 ₹159
                                 </td>
 
                             </tr>
                             <tr class="bg-white dark:bg-gray-800">
-                                <th scope="row" class="px-6 py-4 font-bold border-b text-gray-900 whitespace-nowrap dark:text-white">
+                                <th scope="row" class="px-6 py-4 font-bold  text-gray-900 whitespace-nowrap dark:text-white">
                                 Software Installation and Updates
                                     <h1 className="font-normal">Microsft Office</h1>
                                     <h1 className="font-normal">Windows Updates, Etc</h1>

@@ -2,14 +2,16 @@ import Hello from "./components/Hello"
 import Catalog from "./components/Catalog"
 import PCbuild from "./components/PCbuild"
 import Custompc from "./components/Custompc"
+import Button from "./components/Button"
 
 export default function App() {
     return (
         <div className="flex flex-col h-screen">
             <Hello />
             <Catalog />
-            <Custompc />
+
             <PCbuild/>
+            <Button/>
         </div>
     )
 

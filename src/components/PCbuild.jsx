@@ -1,7 +1,7 @@
 export default function PCbuild() {
     return (
         <>
-            <main className="px-3 flex-grow container mx-auto">
+            <main className="px-3 flex-grow container mx-auto pt-10">
 
                 <section class="bg-gray-900 text-white rounded-lg">
 
