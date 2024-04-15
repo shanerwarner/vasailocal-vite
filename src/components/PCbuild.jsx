@@ -1,9 +1,9 @@
 export default function PCbuild() {
     return (
         <>
-            <main className="px-3 flex-grow container mx-auto pt-10">
+            <main className="px-3 flex-grow container mx-auto pt-10 ">
 
-                <section class="bg-slate-500 text-white rounded-lg border">
+                <section class="bg-slate-500  dark:bg-gray-800 rounded-lg border dark:text-gray-200">
 
                     <div class="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
                         <div class="max-w-xl">
@@ -16,7 +16,7 @@ export default function PCbuild() {
 
                         <div class="mt-8 grid grid-cols-1 gap-8 md:mt-16 md:grid-cols-2 md:gap-12 lg:grid-cols-3">
                             <div class="flex items-start gap-4">
-                                <span class="shrink-0 rounded-lg bg-gray-50 p-4">
+                                <span class="shrink-0 rounded-lg bg-stone-700 border p-4">
                                     <h1>💙</h1>
                                 </span>
 
@@ -30,7 +30,7 @@ export default function PCbuild() {
                             </div>
 
                             <div class="flex items-start gap-4">
-                                <span class="shrink-0 rounded-lg bg-gray-800 p-4">
+                                <span class="hrink-0 rounded-lg bg-stone-700 border p-4">
                                     <h1>⭐</h1>
                                 </span>
 
@@ -44,7 +44,7 @@ export default function PCbuild() {
                             </div>
 
                             <div class="flex items-start gap-4">
-                                <span class="shrink-0 rounded-lg bg-gray-800 p-4">
+                                <span class="hrink-0 rounded-lg bg-stone-700 border p-4">
                                     <h1>⁉️</h1>
                                 </span>
 
@@ -58,7 +58,7 @@ export default function PCbuild() {
                             </div>
 
                             <div class="flex items-start gap-4">
-                                <span class="shrink-0 rounded-lg bg-gray-800 p-4">
+                                <span class="hrink-0 rounded-lg bg-stone-700 border p-4">
 <h1>🕙</h1>
                                 </span>
 

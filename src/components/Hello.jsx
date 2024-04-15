@@ -3,7 +3,7 @@
 function Hello(){
     return (
         <>
-       <div className="pb-12 pt-20 sm:pb-16 sm:pt-32 lg:pb-24 xl:pb-32 xl:pt-40">
+       <div className="pb-12 pt-20 sm:pb-16 sm:pt-32 lg:pb-24 xl:pb-32 xl:pt-40 ">
         <div className="relative z-20 mx-auto max-w-7xl px-6 lg:px-8">
                     <div className="mx-auto max-w-2xl text-center">
                         <h1 className="text-2xl font-medium tracking-tight text-gray-500 sm:text-6xl">
