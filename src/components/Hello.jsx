@@ -27,7 +27,7 @@ function Hello(){
                         </h2>
 
                     </div>
-                    <div className=" mx-auto mt-10 max-w-lg">
+                    <div className=" mx-auto max-w-sm">
                         <img className=""
                             src="https://i.imgur.com/04O3x2H.png"
                             alt=""/>
