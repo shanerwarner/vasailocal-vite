@@ -1,9 +1,9 @@
 export default function PCbuild() {
     return (
         <>
-            <main className="px-3 flex-grow container mx-auto pt-10 ">
+            <main className="px-3 flex-grow container mx-auto pt-4 ">
 
-                <div class="bg-white py-6 sm:py-8 lg:py-12">
+                <div class="bg-slate-200 py-6 sm:py-8 lg:py-12 border-2 rounded-xl">
                     <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
                         <div class="relative mx-auto mt-05 mb-11 max-w-xl">
                             <img class="h-52 w-full rounded-md object-cover" src="https://images.unsplash.com/photo-1628358011414-fb7ddaca0dbb?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Random image" />
