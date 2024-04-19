@@ -1,15 +1,6 @@
 export default function Catalog() {
     return (
         <>
-            <div className=" pl-6  pb-10  flex-grow container mx-auto " >
-                <h1
-                    className=" mb-4 text-4xl font-bold text-gray-700 bg-clip-text
-            text-transparen">
-                    Pricing 🏷️</h1>
-                <p class="mt-1 text-xl font-normal text-gray-500 dark:text-gray-400">Browse a list of services
-                    curated to help you work and play, stay organized, get answers, keep in touch, grow your
-                    business, and more. Starting rom ₹90 Onwards</p>
-            </div>
 
             <main className="px-3 flex-grow container mx-auto">
                 <div class="relative overflow-x-auto border-2 rounded-lg">
@@ -82,6 +73,7 @@ export default function Catalog() {
                             </tr>
                         </tbody>
                     </table>
+                    
                 </div>
             </main>
         </>
