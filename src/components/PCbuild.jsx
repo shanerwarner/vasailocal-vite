@@ -5,7 +5,7 @@ export default function PCbuild() {
 
                 <div class="bg-white py-6 sm:py-8 lg:py-12">
                     <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
-                        <div class="relative mx-auto mt-20 mb-11 max-w-xl">
+                        <div class="relative mx-auto mt-05 mb-11 max-w-xl">
                             <img class="h-64 w-full rounded-md object-cover" src="https://images.unsplash.com/photo-1628358011414-fb7ddaca0dbb?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Random image" />
                             <div class="absolute inset-0 rounded-md bg-gray-700 opacity-60"></div>
                             <div class="absolute inset-0 flex items-center justify-center">
