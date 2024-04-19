@@ -21,7 +21,7 @@ export default function PCbuild() {
 
         <div>
           <h3 class="mb-2 text-lg font-semibold md:text-xl">Personalized</h3>
-          <p class="mb-2 text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+          <p class="mb-2 text-gray-500">I work with you to understand your needs.</p>
         </div>
       </div>
 
@@ -34,8 +34,7 @@ export default function PCbuild() {
 
         <div>
           <h3 class="mb-2 text-lg font-semibold md:text-xl">Quality</h3>
-          <p class="mb-2 text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
-          <a href="#" class="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700">More</a>
+          <p class="mb-2 text-gray-500">Only top components are used from trusted brands.</p>
         </div>
       </div>
 
@@ -48,8 +47,8 @@ export default function PCbuild() {
 
         <div>
           <h3 class="mb-2 text-lg font-semibold md:text-xl">Expert Guidance</h3>
-          <p class="mb-2 text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
-          <a href="#" class="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700">More</a>
+          <p class="mb-2 text-gray-500">Knowledge to help you make the right choices.</p>
+
         </div>
       </div>
 
@@ -62,8 +61,8 @@ export default function PCbuild() {
 
         <div>
           <h3 class="mb-2 text-lg font-semibold md:text-xl">Future-Proof</h3>
-          <p class="mb-2 text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
-          <a href="#" class="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700">More</a>
+          <p class="mb-2 text-gray-500">tailor component choices and configurations to ensure your PC remains relevant and high-performing for years to come. Let me help you build a PC ready for the future.</p>
+
         </div>
       </div>
 
@@ -76,13 +75,26 @@ export default function PCbuild() {
 
         <div>
           <h3 class="mb-2 text-lg font-semibold md:text-xl">Extended Support</h3>
-          <p class="mb-2 text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
-          <a href="#" class="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700">More</a>
+          <p class="mb-2 text-gray-500">Ongoing assistance for your computer needs, from hardware troubleshooting to software optimization to ensure your PC runs smoothly and efficiently, tailored to your requirements.</p>
+
+        </div>
+      </div>
+      <div class="flex gap-4 md:gap-6">
+        <div class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-indigo-500 text-white shadow-lg md:h-14 md:w-14 md:rounded-xl">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+        </div>
+
+        <div>
+          <h3 class="mb-2 text-lg font-semibold md:text-xl">Budget Builds</h3>
+          <p class="mb-2 text-gray-500">Expert guidance for cost-effective PC setups. I help you maximize performance within your budget constraints, from component selection to assembly tips. Let me assist you in building a powerful PC without breaking the bank.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
+
 
             </main>
         </>
